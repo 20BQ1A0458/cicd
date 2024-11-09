@@ -1,0 +1,2 @@
+# requirements.txt
+unittest  # or you can install any dependencies your project needs
